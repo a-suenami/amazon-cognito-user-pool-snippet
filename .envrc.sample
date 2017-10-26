@@ -1,0 +1,4 @@
+export POOL_ID=ap-northeast-1_xxxxxxx
+export CLIENT_ID=xxxxxxxxxx
+export EMAIL=example@example.com
+export CREDENTIAL_PROFILE=default
